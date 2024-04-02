@@ -1,9 +1,5 @@
-# Alien_onslaught
-Developed using the Pygame library, this 2D Alien Invasion game showcases proficiency in Python programming, game development, object-oriented design, sprite animation, collision detection, and user interface implementation
-
 # Alien Onslaught
-
-Alien Onslaught is a 2D arcade-style game developed using the Pygame library in Python.
+Developed using the Pygame library, this 2D Alien Invasion game showcases proficiency in Python programming, game development, object-oriented design, sprite animation, collision detection, and user interface implementation
 
 ## Description
 
@@ -12,10 +8,8 @@ In Alien Onslaught, players must defend Earth from an invasion of hostile aliens
 ## Features
 
 - **Intense Gameplay:** Experience fast-paced, action-packed gameplay as you battle against waves of alien invaders.
-- **Multiple Levels:** Progress through multiple levels of increasing difficulty, each with its own unique challenges and enemy types.
-- **Upgrade System:** Earn points by defeating aliens to upgrade your spaceship's weapons and defenses, enhancing your chances of survival.
-- **Boss Battles:** Encounter epic boss battles at the end of each level, requiring skill and strategy to defeat.
-- **High Scores:** Compete with friends and other players for the highest scores on the leaderboard.
+- **Multiple Levels:** Progress through multiple levels of increasing difficulty, each with its own unique challenges
+- **Upgrade System:** Earn points by defeating aliens, enhancing your chances of survival.
 
 ## Installation
 
@@ -24,4 +18,4 @@ In Alien Onslaught, players must defend Earth from an invasion of hostile aliens
 3. Install the required dependencies using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install pygame
